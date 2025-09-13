@@ -96,7 +96,12 @@
             position: relative;
             .imgMuestra {
                 display: block;
+                transition: 0.25s ease;
 
+                &:hover {
+                    transform: scale(0.9);
+                }
+                
                 img {
                     width: 100%;
                     max-width: 600px;

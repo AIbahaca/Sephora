@@ -89,6 +89,10 @@
 }
 .main .content .content-img .imgMuestra {
   display: block;
+  transition: 0.25s ease;
+}
+.main .content .content-img .imgMuestra:hover {
+  transform: scale(0.9);
 }
 .main .content .content-img .imgMuestra img {
   width: 100%;
