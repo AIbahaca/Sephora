@@ -37,7 +37,7 @@
 }
 .main header .nav li a {
   position: relative;
-  color: black;
+  color: whitesmoke;
   text-decoration: none;
   margin-left: 40px;
 }
@@ -53,17 +53,18 @@
   max-width: 600px;
 }
 .main .content .text h2 {
-  color: black;
+  color: #E9B9AF;
   font-size: 5em;
   font-weight: 300;
   line-height: 1.1em;
   margin: 20px 0;
+  text-shadow: 2px 2px 5px #8d1d3f;
 }
 .main .content .text h2 i {
   font-weight: 700;
 }
 .main .content .text p {
-  color: black;
+  color: #4B0007;
   font-weight: 400;
   font-size: 1.1em;
   line-height: 1.5em;
@@ -73,8 +74,8 @@
   position: relative;
   display: inline-block;
   padding: 20px 50px;
-  background: white;
-  color: black;
+  background: #E9B9AF;
+  color: #4B0007;
   font-size: 1.1em;
   font-weight: 500;
   border-radius: 40px;
@@ -114,7 +115,7 @@
   list-style: none;
 }
 .main .footer .sci li a {
-  color: black;
+  color: whitesmoke;
   font-size: 2em;
   margin-right: 20px;
   display: inline-block;
